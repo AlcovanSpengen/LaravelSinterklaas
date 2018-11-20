@@ -1,0 +1,24 @@
+body {
+    font-family: "Roboto Slab", serif;
+    margin:0;
+}
+
+header {
+    width: 100%;
+    Height: 400px;
+    background: url("/img/header.jpg");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.verlanglijstje {
+    width: 60%;;
+    height: 800px;
+    padding: 50px;
+    background: url("/img/sinterklaas-verlanglijstje.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
